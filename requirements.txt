@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+numpy
+matplotlib
+pyprojroot
+pydrive
+tifffile
+scipy
+gdown
+tqdm
+opencv-python
+umap-learn
+scikit-learn
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+wandb
+python-dotenv
+lightning[extra]
+segmentation_models_pytorch
